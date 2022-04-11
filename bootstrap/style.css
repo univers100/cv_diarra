@@ -1,0 +1,394 @@
+
+body{
+    background-color: #ffffff;
+    background-image: url(img1/684ec4d0733e0b188a7c2a13d9dbb731.gif);
+    border: 2px solid #1194ec;
+    margin-left: 0px;
+    margin-right: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+
+    
+   
+
+  
+  
+}
+/* Image gif */
+.gif{
+  width: 220px;
+margin-left: 100%;
+border-radius: 150px;
+margin-top: -30%;
+background: transparent;
+}
+.gif1{
+  width: 90px;
+  margin-top: -10%;
+  border-radius: 60px;
+  margin-right: 100%;
+}
+nav{
+  background-color: rgb(209, 233, 235);
+}
+/* Etat Civil */
+.etat{
+
+  border-radius: 10px;
+  background-color: rgb(131, 238, 233);
+  margin-bottom: 50px;
+  margin-top: -50px;
+  font-size: 25px;
+  width: 400px;
+  text-align: justify;
+  text-align: center;
+  color: rgb(20, 112, 155);
+
+}
+/* NavBar */
+.nav{
+  margin-top: 5%;
+}
+/* Curriculum Vitae */
+.cv{
+  margin-top: -50px;
+ margin-left: 32.5%;
+ border-radius: 50%;
+ background-color: rgb(131, 238, 233);
+ width: 50%;
+ height: 100%;
+ text-align: center;
+ font-size: 350%;
+ color: rgb(20, 112, 155);
+
+}
+/* Titre1 */
+
+ #a1{
+  border-bottom: 2px;
+  background-color: rgb(182, 248, 163);
+ border-radius: 10px;
+ margin-bottom: 0%;
+ color:rgb(9, 55, 124);
+  
+
+  }
+  /* Titre2 */
+ #a2{
+  border-bottom: 2px;
+  background-color: rgb(255, 223, 175);
+  border-radius: 10px;
+ margin-bottom: 0%;
+ margin-top: 10px;
+ color:rgb(3, 27, 65);
+  
+}
+/* Titre3 */
+  
+ #a3{
+  border-bottom: 2px;
+  background-color: rgb(255, 179, 223);
+  border-radius: 10px;
+ margin-bottom: 0%;
+ margin-top: 10px;
+ color:rgb(9, 55, 124);
+}
+/* Titre Langue */
+#a4{
+  border-bottom: 2px;
+  background-color: rgb(181, 236, 250);
+  border-radius: 10px;
+ margin-bottom: 0%;
+ margin-top: 10px;
+ color:rgb(9, 55, 124);
+}
+
+/* Paragraphe1 gauche */
+.p1 {
+  background: linear-gradient(rgb(181, 255, 181), rgb(255, 224, 230));
+  font-size: 20px;
+  border-radius: 10px;
+  
+}
+/* Paragraphe2 droite*/
+
+.p2 {
+  background: linear-gradient(rgb(190, 255, 190), rgb(255, 241, 244));
+  font-size: 20px;
+  border-radius: 10px;
+  
+}
+/* Paragraphe3 gauche */
+.p3 {
+  background: linear-gradient(rgb(243, 243, 169), rgb(245, 233, 235));
+  font-size: 20px;
+  border-radius: 10px;
+  
+}
+/* Paragraphe4 droite */
+.p4 {
+  background: linear-gradient(rgb(255, 255, 215), rgb(255, 233, 236));
+  font-size: 20px;
+  border-radius: 10px;
+  
+}
+/* Paragraphe5 gauche */
+.p5 {
+  background: linear-gradient(rgb(253, 219, 205), rgb(247, 223, 227));
+  font-size: 20px;
+  border-radius: 10px;
+}
+/* Paragraphe6 droite */
+.p6{
+  background: linear-gradient(rgb(255, 241, 236), rgb(255, 245, 246));
+  font-size: 20px;
+  border-radius: 10px;  
+}
+/* paragraphe7 gauche */
+.p7{
+  background: linear-gradient(rgb(196, 247, 227), rgb(241, 230, 252));
+  font-size: 20px;
+  border-radius: 10px;
+  }
+  /* paragraphe8 droite */
+  .p8{
+    background: linear-gradient(rgb(198, 225, 243), rgb(253, 245, 246));
+    font-size: 20px;
+    border-radius: 10px;
+}
+/* Image Profil */
+.photo{
+    margin-top: 0%;
+    margin: left 300px;
+  cursor: pointer;
+
+    
+
+}
+/* Image Bordure rond */
+.rond{
+    border-radius: 1000px;
+  width: 150px;
+background: linear-gradient(blue, pink);
+margin-left: 65%;
+margin-top: -6%;
+}
+/* Bouton1 */
+.bt1{
+  margin-left: 50%;
+  border-radius: 5px;
+}
+/* Bouton2 */
+.bt2{
+  margin-left: 50%;
+  border-radius: 5px;
+}
+/* Numero Contact */
+.num{
+  color: white;
+margin-left: 30%;
+ 
+ }
+ /* Adresse Email */
+.mail{
+  color: white;
+  margin-left: 10%;
+}
+/* Animation Icon Lien */
+
+.pulse-anim1{
+box-shadow: 0 0 0 0 rgb(238, 235, 235);
+animation: pulse 1.6s infinite;
+
+width: 12%;
+    height: 12%;
+    border-radius: 10px;
+
+}
+@keyframes pulse{
+  to{
+    box-shadow: 0 0 0 5px white;
+      }
+}
+.pulse-anim2{
+box-shadow: 0 0 0 0 rgb(238, 235, 235);
+animation: pulse 1.7s infinite;
+
+width: 12%;
+    height: 12%;
+    border-radius: 10px;
+
+}
+@keyframes pulse{
+  to{
+    box-shadow: 0 0 0 5px white;
+      }
+}
+.pulse-anim3{
+box-shadow: 0 0 0 0 rgb(238, 235, 235);
+animation: pulse 1.9s infinite;
+
+width: 12%;
+    height: 12%;
+    border-radius: 10px;
+
+}
+@keyframes pulse{
+  to{
+    box-shadow: 0 0 0 5px white;
+      }
+}
+.pulse-anim4{
+box-shadow: 0 0 0 0 rgb(238, 235, 235);
+animation: pulse 1.12s infinite;
+
+width: 15%;
+  border-radius: 10px;
+
+}
+@keyframes pulse{
+  to{
+    box-shadow: 0 0 0 5px white;
+      }
+}
+#anim{
+  display: flex;
+  gap: 20px;
+  margin-top: -8.5%;
+}
+ .pulse-anim1:hover{
+    animation: anim .4s forwards;
+  }
+  @keyframes anim{
+
+    0%{
+      transform: translateX(0px);
+    }
+    20%{
+      transform: translateX(-10px);
+    }
+    40%{
+        transform: translateX(10px);
+    }
+    60%{
+      transform: translateX(-10px);
+    }
+    80%{
+      transform: translateX(10px);
+    }
+    100%{
+      transform: translateX(0px);
+    }
+
+     }
+     /* Animation anim2 */
+     .pulse-anim2:hover{
+      animation: anim .4s forwards;
+    }
+    @keyframes anim{
+  
+      0%{
+        transform: translateX(0px);
+      }
+      20%{
+        transform: translateX(-10px);
+      }
+      40%{
+          transform: translateX(10px);
+      }
+      60%{
+        transform: translateX(-10px);
+      }
+      80%{
+        transform: translateX(10px);
+      }
+      100%{
+        transform: translateX(0px);
+      }
+  
+       }
+       /* Animation anime3 */
+       .pulse-anim3:hover{
+        animation: anim .4s forwards;
+      }
+      @keyframes anim{
+    
+        0%{
+          transform: translateX(0px);
+        }
+        20%{
+          transform: translateX(-10px);
+        }
+        40%{
+            transform: translateX(10px);
+        }
+        60%{
+          transform: translateX(-10px);
+        }
+        80%{
+          transform: translateX(10px);
+        }
+        100%{
+          transform: translateX(0px);
+        }
+    
+         }
+         /* Animation4 anim4 */
+         .pulse-anim4:hover{
+          animation: anim .4s forwards;
+        }
+        @keyframes anim{
+      
+          0%{
+            transform: translateX(0px);
+          }
+          20%{
+            transform: translateX(-10px);
+          }
+          40%{
+              transform: translateX(10px);
+          }
+          60%{
+            transform: translateX(-10px);
+          }
+          80%{
+            transform: translateX(10px);
+          }
+          100%{
+            transform: translateX(0px);
+          }
+      
+           }
+/* bouttons 3 à 6 */
+
+.bt3{
+        margin-bottom: 5%;
+         color: rgb(255, 255, 255);
+         border-radius: 10px;
+          background-color: rgb(5, 141, 5);
+          box-shadow: #ffffff;
+         
+}
+.bt4{
+  color: rgb(252, 252, 252);
+border-radius: 10px;
+
+background-color: #104e77;
+}
+.bt5{
+  color: #0b5383;
+  border-radius: 10px;
+background-color: #83c6f3;
+width: 100%;
+height: 45px;
+
+}
+.bt6{
+  color: rgb(255, 255, 255);
+background-color: rgb(95, 6, 6);
+border-radius: 10px;
+width: 100%;
+height: 100%;
+  
+}
